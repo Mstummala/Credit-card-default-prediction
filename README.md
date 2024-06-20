@@ -1,0 +1,1 @@
+This repository contains code and analysis for predicting credit card defaults using machine learning. It includes a comparative analysis of Random Forest and Logistic Regression models to determine their effectiveness in predicting defaults. The project emphasizes model evaluation and performance comparison to identify the best approach for credit risk assessment.
